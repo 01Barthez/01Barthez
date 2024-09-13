@@ -39,3 +39,5 @@ So, if you are interested in one of my little crafts or projects, don't hesitate
 - [![dev_to](https://img.shields.io/badge/dev_to-404047?style=for-the-badge&logo=dev-io&logoColor=dark)](https://dev.to/barthez_kenwou)
 
 - [![portfolio](https://img.shields.io/badge/barthez_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+- **+237 655 646 688**
