@@ -40,11 +40,13 @@ So, if you are interested in one of my little crafts or projects, don't hesitate
 
 - [![portfolio](https://img.shields.io/badge/barthez_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-- **+237 655 646 688**
+- <p style="font-weight: bold; padding: 10px; background: green; width: fit-content; color: white;">+237 655 646 688</p>
 
-### Personnals Github Informations
+### 🙈 Personnals Github Informations
 
-![Barthez's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Barthez&show_icons=true&theme=8034eb)
+<!-- ![Nombre de dépôts](https://img.shields.io/badge/Repositories-25-blue) -->
+
+![Barthez's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Barthez&show_icons=true&theme=radical)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=01Barthez&layout=compact)
 
