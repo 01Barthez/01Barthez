@@ -8,7 +8,7 @@ I am a passionate full stack developer...
 So, if you are interested in one of my little crafts or projects, don't hesitate to contact me or talk to me about it so that we can discuss it. If you have an idea for a project, a criticism to give me or a collaborative project, I am a gentleman who is open to everything 😇.
 
 <!-- ![Barthez Kenwou](assets/profile.JPG) -->
-<img src="assets/profile.JPG" alt="Barthez Kenwou" width="400">
+<img src="assets/profile.JPG" alt="Barthez Kenwou" width="600" height="600" style="object-fit: cover;object-position: center;">
 
 ## 👨‍🦱 Some Soft Skill
 
@@ -41,3 +41,11 @@ So, if you are interested in one of my little crafts or projects, don't hesitate
 - [![portfolio](https://img.shields.io/badge/barthez_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
 - **+237 655 646 688**
+
+### Personnals Github Informations
+
+![Barthez's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Barthez&show_icons=true&theme=8034eb)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=01Barthez&layout=compact)
+
+![Compteur de vues](https://komarev.com/ghpvc/?username=01Barthez&color=yellow)
