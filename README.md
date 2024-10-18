@@ -1,7 +1,7 @@
 
-# Hi 👋, I'm Barthez Kenwou! 🤞
+# Hi 👋, I'm Barthez Kenwou 🤞
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/01Barthez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/Worketyamo-Students/ChrisfisPrrojet-Barthez_-_Melvis)
 
 <hr/>
 
@@ -12,7 +12,6 @@ I am a passionate full stack developer...
 So, if you are interested in one of my little crafts or projects, don't hesitate to contact me or talk to me about it so that we can discuss it. If you have an idea for a project, a criticism to give me or a collaborative project, I am a gentleman who is open to everything 😇.
 
 <!-- ![Barthez Kenwou](assets/profile.JPG) -->
-<img src="assets/profile.JPG" alt="Barthez Kenwou" width="600" height="600" style="object-fit: cover;object-position: center;">
 
 <hr/>
 
