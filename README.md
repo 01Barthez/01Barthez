@@ -65,12 +65,20 @@ So, if you are interested in one of my little crafts or projects, don't hesitate
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barthez-kenwou) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/barthez.klb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@barthezkenwou) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/barthezkenwou/) <p style="padding: 3px; font-size:14px; background: green; width: fit-content; color: white;">(+237) 655 646 688</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barthez-kenwou)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@barthezkenwou) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/barthezkenwou/) <p style="padding: 3px; font-size:14px; background: green; width: fit-content; color: white;">(+237) 655 646 688</p>
+
+## Contributions
+
+![snake gif](https://github.com/karthikmudunuri/karthikmudunuri/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr/>
 
 ### 🙈📊 GitHub Stats
 
+[![Linkedin: BarthezKenwou](https://img.shields.io/badge/-barthez-kenwou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barthez-kenwou/)](https://www.linkedin.com/in/barthez-kenwou/)
+[![GitHub 01Barthez](https://img.shields.io/github/followers/karthikmudunuri?label=follow&style=social)](https://github.com/01Barthez)
+![GitHub User's stars](https://img.shields.io/github/stars/01Barthez)
+![GitHub forks](https://img.shields.io/github/forks/01Barthez/eldoraui)
 ![Barthez's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Barthez&show_icons=true&theme=radical)
 <br/>
 
