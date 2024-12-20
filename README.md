@@ -79,6 +79,7 @@ So, if you are interested in one of my little crafts or projects, don't hesitate
 [![GitHub 01Barthez](https://img.shields.io/github/followers/karthikmudunuri?label=follow&style=social)](https://github.com/01Barthez)
 ![GitHub User's stars](https://img.shields.io/github/stars/01Barthez)
 ![GitHub forks](https://img.shields.io/github/forks/01Barthez/eldoraui)
+<br/>
 ![Barthez's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Barthez&show_icons=true&theme=radical)
 <br/>
 
