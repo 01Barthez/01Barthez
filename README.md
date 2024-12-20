@@ -67,7 +67,7 @@ So, if you are interested in one of my little crafts or projects, don't hesitate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barthez-kenwou)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@barthezkenwou) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/barthezkenwou/) <p style="padding: 3px; font-size:14px; background: green; width: fit-content; color: white;">(+237) 655 646 688</p>
 
-## Contributions
+## 💫 Contributions
 
 ![snake gif](https://github.com/karthikmudunuri/karthikmudunuri/blob/output/github-contribution-grid-snake-dark.svg)
 
