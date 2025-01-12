@@ -7,7 +7,7 @@
 
 I am a passionate full-stack developer with expertise in modern web and mobile technologies. I am open to collaborations, feedback, and new opportunities to create impactful projects..
 
-2+ years of experience in full-stack development, specializing in React, Node.js and Typescript.
+`2+ years` of experience in full-stack development, specializing in **React**, **Node.js** and **Typescript**.
 
 <!-- ![Barthez Kenwou](assets/profile.JPG) -->
 
