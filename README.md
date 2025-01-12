@@ -89,12 +89,12 @@ I am a passionate full-stack developer with expertise in modern web and mobile t
 
 ## 🙈📊 GitHub Stats
 
-<br/>
+<br/><br/>
 [![Linkedin: barthez-kenwou](https://img.shields.io/badge/-barthezkenwou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barthez-kenwou/)](https://www.linkedin.com/in/barthez-kenwou/)
 [![GitHub 01Barthez](https://img.shields.io/github/followers/karthikmudunuri?label=follow&style=social)](https://github.com/01Barthez)
 ![GitHub User's stars](https://img.shields.io/github/stars/01Barthez)
 ![GitHub forks](https://img.shields.io/github/forks/01Barthez/eldoraui)
-<br/><br/><br/>
+<br/><br/>
 ![Barthez's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Barthez&show_icons=true&theme=radical)
 <br/>
 
