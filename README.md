@@ -35,10 +35,8 @@ I am a passionate full-stack developer with expertise in modern web and mobile t
 ##### Front-End Tools And Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)<br/>
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)<br/>
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=Zustand&logoColor=white)<br/>
-
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ##### Back-End Tools And Languages
@@ -91,7 +89,7 @@ I am a passionate full-stack developer with expertise in modern web and mobile t
 
 ## 🙈📊 GitHub Stats
 
-<br/><br/>
+<br/>
 [![Linkedin: barthez-kenwou](https://img.shields.io/badge/-barthezkenwou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barthez-kenwou/)](https://www.linkedin.com/in/barthez-kenwou/)
 [![GitHub 01Barthez](https://img.shields.io/github/followers/karthikmudunuri?label=follow&style=social)](https://github.com/01Barthez)
 ![GitHub User's stars](https://img.shields.io/github/stars/01Barthez)
